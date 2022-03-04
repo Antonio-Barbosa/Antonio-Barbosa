@@ -5,6 +5,8 @@
 
 ![Antonio Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Barbosa&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Barbosa&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso nos meus projetos
 
 <div style="display: inline_block"><br/>
