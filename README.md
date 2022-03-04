@@ -3,9 +3,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-marcelo-9a5b68181/)
 
-![Antonio Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Barbosa&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Barbosa&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Antonio-Barbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso nos meus projetos
 
@@ -16,7 +18,7 @@
   <img align='center' alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div><br/>
 
-Estudande de Análise e desenvolvimento de sistemas pela FATEC-SÃO JOSÉ DOS CAMPOS.
+👨‍🎓 Estudande de Análise e desenvolvimento de sistemas pela FATEC-SÃO JOSÉ DOS CAMPOS.
 
 
 
