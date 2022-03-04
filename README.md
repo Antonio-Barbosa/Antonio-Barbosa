@@ -21,7 +21,7 @@
 </div><br/>
 
 👨‍🎓 Estudande de Análise e desenvolvimento de sistemas pela FATEC-SÃO JOSÉ DOS CAMPOS.
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Antonio-Barbosa/Antonio-Barbosa/blob/output/github-contribution-grid-snake.svg)
 
 
 
